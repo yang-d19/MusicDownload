@@ -1,0 +1,20 @@
+# Python虚拟环境
+venv/
+env/
+
+# PyInstaller构建产物
+build/
+dist/
+*.spec
+
+# 下载的歌曲目录
+auto_download/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# IDE配置文件
+.vscode/
+.idea/
+
